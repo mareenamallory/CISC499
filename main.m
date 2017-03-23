@@ -49,7 +49,7 @@ diagramList = {s.name}';
         end
 
 
-        fprintf(resultID, '%s\t%s\t%s\t%s\t%s\t%s\n', diagramList{i}, num,...
+        fprintf(resultID, '%s\t%d\t%d\t%d\t%s\t%s\n', diagramList{i}, num,...
             szComp1, szComp2, msg1, msg2);
 
     end
