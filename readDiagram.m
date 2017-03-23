@@ -4,9 +4,6 @@ distribution was found within it
 %}
 
 function [components, num] = readDiagram (oneDiagram)
-    
-
-
 
     fileName = ['./Diagrams/d0_diagrams/', oneDiagram];
     fileName = char(fileName);
