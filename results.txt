@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hsa-let-7a-1_chr15_44322668-44322860.diagram				Bimodial Distribution	Correct Size
 hsa-let-7a-2_chr14_115000926-115001112.diagram				Bimodial Distribution	Correct Size
 hsa-let-7a-3_chr10_88293934-88294123.diagram				Bimodial Distribution	Correct Size
@@ -404,6 +405,8 @@ hsa-mir-98_chrX_52963078-52963276.diagram				Bimodial Distribution	Correct Si
 hsa-mir-99a_chr3_31071088-31071267.diagram				Bimodial Distribution	Correct Size
 hsa-mir-99b_chr19_46927783-46927963.diagram				Bimodial Distribution	Correct Size
 =======
+=======
+>>>>>>> origin/mybranch
 hsa-let-7a-1_chr15_44322668-44322860.diagram	2	1	1	Bimodial Distribution	Incorrect Size
 hsa-let-7a-2_chr14_115000926-115001112.diagram	2	1	1	Bimodial Distribution	Incorrect Size
 hsa-let-7a-3_chr10_88293934-88294123.diagram	2	1	1	Bimodial Distribution	Incorrect Size
@@ -413,4 +416,7 @@ hsa-let-7d_chr15_44325533-44325728.diagram	2	1	1	Bimodial Distribution	Incorrect
 hsa-let-7e_chr19_46927959-46928145.diagram	1	1	1	Not Bimodial Distribution	Incorrect Size
 hsa-let-7f-1_chr15_44323058-44323254.diagram	2	1	1	Bimodial Distribution	Incorrect Size
 hsa-let-7f-2_chrX_52964032-52964220.diagram	2	1	1	Bimodial Distribution	Incorrect Size
+<<<<<<< HEAD
+>>>>>>> origin/mybranch
+=======
 >>>>>>> origin/mybranch
