@@ -21,6 +21,7 @@ diagramList = {s.name}';
         if num == 2
             msg1 = 'Bimodial Distribution';
             current1 = components(1);
+            disp(current1)
             [~,szComp1] = size(current1);
 
             %Checking to make sure the distance of the distribution is within
